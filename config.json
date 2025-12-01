@@ -105,7 +105,7 @@
       "is_adult": false
     },
     "liangzi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/json",
       "name": "TV-量子资源",
       "is_adult": false
     },
